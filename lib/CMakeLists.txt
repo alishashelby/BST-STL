@@ -1,0 +1,1 @@
+add_library(BST BST.cpp BST.h) 
